@@ -32,4 +32,4 @@ node_modules/
 .elixir-tools/
 
 # Build files
-priv/static/
+#priv/static/
